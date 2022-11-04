@@ -1,4 +1,6 @@
-### Hi there 👋
+## Michael Petö
+
+I [code](https://github.com/petoem), design and build digital stuff. 
 
 <!--
 **petoem/petoem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
