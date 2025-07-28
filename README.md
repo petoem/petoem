@@ -1,6 +1,6 @@
-## Michael Petö
+### Hi there 👋
 
-I [code](https://github.com/petoem), design and build digital stuff. 
+I design and build digital stuff with Go, JS, Crystal and a sprinkle of C 💻✨. 
 
 <!--
 **petoem/petoem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
